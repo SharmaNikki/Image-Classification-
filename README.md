@@ -15,7 +15,8 @@ The models takes in images and their labels, then classify each image
 
 # Data Set
 
-- In this project we have build different  model for image classification to distinct places such as buildings, forest, glacier, mountain, sea, and street with around 25k images for train data
+- In this project we have build different  model for image classification to distinct places such as buildings, forest, glacier,      mountain, sea, and street with around 25k images for train data
+- For each scenes, it has individual set of images, for to train and the test model. Most of the images are in 150 x 150 pixle size and   some where in improper size format. So, all the images will be resized to 100 x 100.
 -This model can be used for application that used landscape picture as its own features for instance to cluster recommendation places that similar with user input.
 
 # Importing Libraries
@@ -49,6 +50,10 @@ Firstly, before we fit our data into CNN model, we have to serve it as a matrix 
 
 ## Support Vector Machine 
  Support Vector Machine test in R was used to perform the image classification test.The below steps were performed to evaluate the model performance 
+###  Below are the steps followed for to train & test the model.
+- Import the necesasary libraties and image files
+- Create a Linear SVM model and train it
+- Check the accuracy score of the model
 ### Training data importing with labelling 
 ### Fitting SVM 
 ### Predict SVM 
