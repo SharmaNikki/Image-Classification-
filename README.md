@@ -30,7 +30,7 @@ We need to import several packages but mostly we just need packages for data man
 
 # Data Analysis 
 
-Firstly, before we fit our data into CNN model, we have to serve it as a matrix form. The images are converted into 3 Dimensional Matrix (width, height, and channel). In our dataset folder, there are 3 subfolders contain train, test, and prediction dataset. In this case we're only using  2 subfolders, seg_train for making train set and validation set, and seg_test to evaluate our model.
+Firstly, before we fit our data into CNN model, we have to serve it as a matrix form. The images are converted into multi dimensional  Matrix (width, height, and channel). In the dataset folder, there are 3 subfolders contain train, test, and prediction dataset. In this case we're only using  2 subfolders, seg_train for making train set and validation set, and seg_test to evaluate our model.
 
 ## Technique
 
