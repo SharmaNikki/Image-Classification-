@@ -65,6 +65,7 @@ Firstly, before we fit our data into CNN model, we have to serve it as a matrix 
 ### Predict SVM 
 ### ROC Curve
 - To derive the ROC curve from the probability distribution, we calculated the True Positive Rate (TPR) and False Positive Rate (FPR).
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/ZWQ4Xtb/image.png" alt="image" border="0"></a>
 
 ## Naive Bayes 
  Naive Bayes test in R was used to perform the image classification test.The below steps were performed to evaluate the model performance 
@@ -73,6 +74,7 @@ Firstly, before we fit our data into CNN model, we have to serve it as a matrix 
 ### Predict Naive Bayes 
 ### ROC Curve
 - To derive the ROC curve from the probability distribution, we calculated the True Positive Rate (TPR) and False Positive Rate (FPR).
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/0J0kD5q/image.png" alt="image" border="0"></a>
 
 ## Random Forest 
  Random Forest  test in R was used to perform the image classification test.The below steps were performed to evaluate the model performance 
@@ -81,11 +83,13 @@ Firstly, before we fit our data into CNN model, we have to serve it as a matrix 
 ### Predict Random Forest 
 ### ROC Curve 
 - To derive the ROC curve from the probability distribution, we calculated the True Positive Rate (TPR) and False Positive Rate (FPR).
-
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/DfvWWb4/image.png" alt="image" border="0"></a>
 
 ## Hypothesis Testing 
  Anova test is utilised to compare the models performance and check the siginificant difference between the models
  ### ANOVA is used to determine whether there are any statistically significant differences between the means of three or more independent (unrelated) groups.
+ <a href="https://imgbb.com/"><img src="https://i.ibb.co/XJfN7kZ/image.png" alt="image" border="0"></a>
+ 
  
  
 
