@@ -34,8 +34,11 @@ Firstly, before we fit our data into CNN model, we have to serve it as a matrix 
 
 ## Technique
 
-1. Neural Network 	
+## Neural Network 
+### Labeled the data
   Feedforward DNNs require all feature inputs to be numeric. Consequently, if the data contains categorical features they will need to     be numerically encoded (e.g., one-hot encoded, integer label encoded, etc.)
+### One hot Encoding 
+  Data to be numerically encoded
   
 ## Neural Network - 
 ### Build Model in Keras-Tensorflow
@@ -79,7 +82,7 @@ Firstly, before we fit our data into CNN model, we have to serve it as a matrix 
 
 ## Hypothesis Testing 
  Anova test is utilised to compare the models performance and check the siginificant difference between the models
- ### Hypothesis testing :ANOVA is used to determine whether there are any statistically significant differences between the means of three or more independent (unrelated) groups.
+ ### ANOVA is used to determine whether there are any statistically significant differences between the means of three or more independent (unrelated) groups.
  
  
 
