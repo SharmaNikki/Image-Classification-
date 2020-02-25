@@ -48,6 +48,9 @@ Firstly, before we fit our data into CNN model, we have to serve it as a matrix 
 - When using rectangular data, the most common approach is to use ReLU activation functions in the hidden layers. The ReLU activation     function is simply taking the summed weighted  inputs.
 ### Compile 
  - To incorporate the backpropagation piece of our DNN we include compile()
+ 
+ <a href="https://imgbb.com/"><img src="https://i.ibb.co/jHXXZvT/image.png" alt="image" border="0"></a>
+ 
 ### Fit the Model 
  - We’ve created a base model, now we just need to train it with some data. To do so we feed our model into a fit() function along with our training data
 
