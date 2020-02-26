@@ -11,7 +11,7 @@ The models takes in images and their labels, then classify each image
   - In order to get fast computing, we can't use CPU processor to process our data because the size is too large. 
     Therefore the models were run on the MS-Azure Virtual Machine hosting R to compute the performance of model processing.
   - Azure virtual machines (VMs) can be created through the Azure portal. This method provides a browser-based user interface to create     VMs and their associated resources. 
-  - The VM resouces used was 56 GB RAM - with capacity of 200 GB HD and 
+  - The VM resouces used was 56 GB RAM - with capacity of 200 GB HD
 
 # Data Set
 
