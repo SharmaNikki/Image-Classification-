@@ -16,7 +16,7 @@ The models takes in images and their labels, then classify each image
 # Data Set
 
 - In this project we have build different  model for image classification to distinct places such as buildings, forest, glacier,      mountain, sea, and street with around 25k images for train data
-- For each scenes, it has individual set of images, for to train and the test model. Most of the images are in 150 x 150 pixle size and   some where in improper size format. So, all the images will be resized to 100 x 100.
+- For each scenes, it has individual set of images, for to train and the test model. Most of the images are in 150 x 150 pixle size and   some where in improper size format. So, all the images will be resized to 128 x 128.
 -This model can be used for application that used landscape picture as its own features for instance to cluster recommendation places that similar with user input.
 
 # Importing Libraries
